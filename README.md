@@ -1,1 +1,5 @@
-# 20200820
+# python
+```
+Google Colab開發技術
+
+```
